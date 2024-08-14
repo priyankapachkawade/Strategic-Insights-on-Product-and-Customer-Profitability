@@ -1,5 +1,5 @@
 <body>
-<h1>Strategic Insights on Product and Customer Profitability</h1>
+<h1>Strategic Insights on Product and Customer Profitability.</h1>
 <h2>Introduction</h2>
 <p>This project focuses on analyzing product and customer profitability to guide strategic decisions in business growth, sales, revenue, and market effectiveness. By leveraging data analysis, the goal is to optimize operations, improve customer satisfaction, and enhance profitability.</p>
 <h2>Problem Statement</h2>
